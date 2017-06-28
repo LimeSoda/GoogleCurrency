@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Cyberhouse_GoogleCurrency>
+            <version>1.0.0</version>
+        </Cyberhouse_GoogleCurrency>
+    </modules>
+    <global>
+        <models>
+            <GoogleFinance>
+                <class>Cyberhouse_GoogleCurrency_Model</class>
+            </GoogleFinance>
+        </models>
+        <currency>
+            <import>
+                <services>
+                    <GoogleFinance>
+                        <name>Google Finance</name>
+                        <model>Cyberhouse_GoogleCurrency_Model_Google</model>
+                    </GoogleFinance>
+                </services>
+            </import>
+        </currency>
+    </global>
+</config>

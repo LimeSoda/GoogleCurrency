@@ -1,2 +1,2 @@
-Payserv/*				                    app/code/local/Payserv
-Payserv_GoogleFinance.xml	                app/etc/modules/Payserv_GoogleFinance.xml
+src/app/code/local/Cyberhouse/GoogleCurrency/*  app/code/local/Cyberhouse/GoogleCurrency
+src/app/etc/modules/Cyberhouse_GoogleCurrency.xml   app/etc/modules/Cyberhouse_GoogleCurrency.xml

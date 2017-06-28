@@ -1,9 +1,9 @@
 {
-    "name":"payserv/googlefinance",
-    "license": "GPLv3",
-    "type": "magento-module",
-    "description":"Google Currency converter",
-    "require": {
-        "magento-hackathon/magento-composer-installer":"*"
-    }
+  "name": "cyberhouse/googlecurrency",
+  "license": "GPLv3",
+  "type": "magento-module",
+  "description": "Google Currency converter",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
 }
